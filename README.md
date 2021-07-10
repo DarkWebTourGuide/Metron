@@ -36,4 +36,4 @@ Node-structure is licensed under the MIT license.
 
 ## Copyright
 
-Copyright 2020, Metron FS Kit
+Copyright 2020, Chrisadams.io
