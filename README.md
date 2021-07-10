@@ -1,6 +1,6 @@
 # Metron
 
-Metron is a lightweight fullstack starter kit to quickly set up node applications. Complete with routes, static folder, and monitoring.
+Starter kit to quickly set up node applications. Complete with routes, static folder, and monitoring.
 
 ## Getting Started
 
@@ -19,7 +19,7 @@ After installation, you may configure the project however you like.
 
 - Routes are handled via Express and can be modified in the routes folder
 - Static files including styles, js, and media must be added to the public folder.
-- Metron utilizes EJS to markup HTML in Javascript on the server side.
+- Utilizes EJS to markup HTML in Javascript on the server side.
 - Any HTML files must be converted into .ejs files.
 
 ## Features
@@ -32,7 +32,7 @@ After installation, you may configure the project however you like.
 
 ## License
 
-Metron is licensed under the MIT license.
+Node-structure is licensed under the MIT license.
 
 ## Copyright
 
