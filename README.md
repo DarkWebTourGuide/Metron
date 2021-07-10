@@ -1,4 +1,4 @@
-# Metron
+# Node Structure
 
 Starter kit to quickly set up node applications. Complete with routes, static folder, and monitoring.
 
